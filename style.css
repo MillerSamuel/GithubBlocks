@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: grey;
+}
+p{
+    text-align: center;
+}
+.top{
+    background-color: green;
+    min-height: 300px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pic{
+    width: 200px;
+    height: 200;
+}
+
+.mid{
+    background-color: grey;
+    min-height: 300px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bot{
+    background-color: purple;
+    min-height: 300px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
